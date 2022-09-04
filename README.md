@@ -1,4 +1,4 @@
-# GNNProject_SHAP
+# Reasoning over Incomplete Knowledge Graph via Graph Structure Learning
 
 ## Abstract
 As we all know, Graph neural networks(GNNs) will be able to work the best when the entire graph structure is provided. However, it is not practical in a real-world setting to have the entire graph structure provided. One of the earlier solutions proposed to this problem is that we devise a task-specific latent structure and apply a GNN to the inferred graph. One of the major possibilities of the space of the graph is that it grows super-exponentially with the number of nodes and so the proposed structure for task-specific will be inefficient for learning the structure and GNN parameters. Another
